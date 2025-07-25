@@ -5,7 +5,6 @@
 
 **QuickAI** is a modern AI-powered React web application built to offer users an intuitive, secure, and fast experience when interacting with AI services. It features authentication, clean UI, and responsive design – all packed in a professional-grade solution ready for deployment.
 
-Whether you're looking to explore premium plans, integrate authentication, or deploy your project with ease, QuickAI sets the foundation.
 
 ---
 
