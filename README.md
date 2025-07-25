@@ -80,7 +80,7 @@ Visit `http://localhost:5173` to view the app.
 
 ---
 
-## Project live link :
+## 🌐 Project live link :
 
 ```
 https://quick-ai-velapoojitha.vercel.app
@@ -114,11 +114,7 @@ M.Tech CSE | Web Developer | AI Enthusiast
 
 📧 Email: [velapoojitha@gmail.com](mailto:velapoojitha@gmail.com) 
 
-| Social    | Link                                                                            |
-| --------- | ------------------------------------------------------------------------------- |
-| 💻 GitHub | [@your-github-username](https://github.com/velapoojitha)                |
-| ✉️ Email  | [velapoojitha@gmail.com](mailto:velapoojitha@gmail.com) |
-
+💻 GitHub: [@velapoojitha](https://github.com/velapoojitha)
 
 ---
 
