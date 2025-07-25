@@ -1,4 +1,3 @@
-
 # 🚀 QuickAI – AI-Powered Web App  
 
 ## 📌 Description
