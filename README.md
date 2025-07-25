@@ -1,13 +1,5 @@
 
-
 # 🚀 QuickAI – AI-Powered Web App  
-### ✨ Built by: Vela Poojitha
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://quickai-vela-poojitha.vercel.app)
-[![React](https://img.shields.io/badge/Built%20With-React-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](LICENSE)
-
----
 
 ## 📌 Description
 
@@ -19,12 +11,18 @@ Whether you're looking to explore premium plans, integrate authentication, or de
 
 ## 🔥 Features
 
-- 🔐 User Authentication using **Clerk.dev**
-- 💳 Dynamic Pricing Table
-- 🧑‍💻 Responsive Design (Mobile & Desktop)
-- ⚡️ Fast Development with **Vite**
-- 🌍 Live Deployment with **Vercel**
-- 🎨 Styled with **Tailwind CSS**
+ 🔐 User Authentication using **Clerk.dev**
+ 
+ 💳 Dynamic Pricing Table
+ 
+ 🧑‍💻 Responsive Design (Mobile & Desktop)
+ 
+ ⚡️ Fast Development with **Vite**
+ 
+ 🌍 Live Deployment with **Vercel**
+ 
+ 🎨 Styled with **Tailwind CSS**
+ 
 
 ---
 
@@ -40,15 +38,7 @@ Whether you're looking to explore premium plans, integrate authentication, or de
 
 ---
 
-## 📸 Screenshots
 
-> _You can upload these screenshots to GitHub and replace the links_
-
-![Home Page](./screenshots/homepage.png)
-![Pricing Page](./screenshots/pricing.png)
-![Login Page](./screenshots/login.png)
-
----
 
 ## 🚀 Getting Started
 
@@ -58,7 +48,7 @@ Whether you're looking to explore premium plans, integrate authentication, or de
 
 ### 2️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/QuickAI.git
+git clone https://github.com/velapoojitha/QuickAI.git
 cd QuickAI
 ````
 
@@ -91,20 +81,10 @@ Visit `http://localhost:5173` to view the app.
 
 ---
 
-## 🌐 Deployment on Vercel
-
-### Step-by-step:
-
-1. Visit [https://vercel.com](https://vercel.com) and log in.
-2. Import your GitHub repository.
-3. Set the environment variables from `.env.local` into Vercel settings.
-4. Click **Deploy**.
-5. Rename your project under `Settings > General` to include your name and project, e.g. `quickai-vela-poojitha`.
-
-Your live link will now be:
+## Project live link :
 
 ```
-https://quickai-vela-poojitha.vercel.app
+https://quick-ai-velapoojitha.vercel.app
 ```
 
 ---
@@ -128,18 +108,12 @@ QuickAI/
 
 ---
 
-## 📃 License
-
-This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.
-
----
-
 ## 🙋‍♀️ Author
 
 **Vela Poojitha**
 M.Tech CSE | Web Developer | AI Enthusiast
-📧 Email: [velapoojitha123@example.com](mailto:velapoojitha123@example.com) *(replace with your real email)*
-🌐 Portfolio: \[Coming Soon...]
+
+📧 Email: [velapoojitha@gmail.com](mailto:velapoojitha@gmail.com) 
 
 ---
 
