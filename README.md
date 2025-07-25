@@ -114,6 +114,12 @@ M.Tech CSE | Web Developer | AI Enthusiast
 
 📧 Email: [velapoojitha@gmail.com](mailto:velapoojitha@gmail.com) 
 
+| Social    | Link                                                                            |
+| --------- | ------------------------------------------------------------------------------- |
+| 💻 GitHub | [@your-github-username](https://github.com/velapoojitha)                |
+| ✉️ Email  | [velapoojitha@gmail.com](mailto:velapoojitha@gmail.com) |
+
+
 ---
 
 ## 🤝 Contributing
